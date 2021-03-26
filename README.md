@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<--![Cover](https://github.com/marieflorescontact/marieflorescontact/blob/master/img/cover.jpg)-->
+![Cover](https://github.com/marieflorescontact/marieflorescontact/blob/master/img/cover.jpg)
 
 
 
