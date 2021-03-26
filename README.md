@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![Cover](https://github.com/marieflorescontact/marieflorescontact/blob/master/img/cover.jpg)
+<--![Cover](https://github.com/marieflorescontact/marieflorescontact/blob/master/img/cover.jpg)-->
 
 
 
-- 🔭 I’m currently i am currently studiyng software development at Ada tech School
+- 🔭 I’m currently studiyng software development at Ada tech School
 
 - ⚡ Fun fact: I am also a freelance still life photographer
 
