@@ -4,6 +4,7 @@
 
 
 
+
 - 🔭 I’m currently studiyng software development at Ada tech School
 
 - ⚡ Fun fact: I am also a freelance still life photographer
