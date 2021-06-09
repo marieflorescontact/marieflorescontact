@@ -8,6 +8,6 @@
 
 - 🔭 I’m currently studiyng software development at Ada tech School
 
-- ⚡ Fun fact: I am also a freelance still life photographer
-- 🙈 I like to play on codewars...!!! https://www.codewars.com/users/marieflorescontact
+- ⚡ Fun fact: I am also a freelance still life photographer (👉 https://marie-flores.com/)
+- 🙈 I like to play on codewars...!!! (👉 https://www.codewars.com/users/marieflorescontact)
 
